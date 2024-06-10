@@ -34,9 +34,9 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 @st.cache_data
 def load_model_and_vectorizer():
     # Load model and vectorizer
-    with open('rf_model7.pkl', 'rb') as file:
+    with open('https://github.com/elainefuuu/ctes-sentiment-analysis/tree/master/src/rf_model7.pkl', 'rb') as file:
         model = pickle.load(file)           
-    with open('tfidf_vect_chars.pkl', 'rb') as file:
+    with open('https://github.com/elainefuuu/ctes-sentiment-analysis/tree/master/src/tfidf_vect_chars.pkl', 'rb') as file:
         vectorizer = pickle.load(file)
     return model, vectorizer
 
