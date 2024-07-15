@@ -11,3 +11,8 @@ The EduSentiment application allow users like the university administration to e
   <img src="interface/UI-4.png" width="60%" />
   <img src="interface/UI-5.png" width="60%" />
 </div>
+
+## Source Code
+
+src/Sentiment_prediction.ipynb \
+.streamlit/streamlit_app.py
