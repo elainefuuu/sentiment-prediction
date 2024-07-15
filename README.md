@@ -4,7 +4,10 @@ The EduSentiment application allow users like the university administration to e
 
 ## User Interface
 
-<div float="left">
-  <img src="https://github.com/elainefuuu/sentiment-prediction/blob/interface/UI-1.png" height="120" >
-  <img src="https://github.com/elainefuuu/sentiment-prediction/blob/interface/UI-2.png" height="120">
+<div align="center">
+  <img src="interface/UI-1.png" width="80%" />
+  <img src="interface/UI-2.png" width="60%" />
+  <img src="interface/UI-3.png" width="60%" />
+  <img src="interface/UI-4.png" width="60%" />
+  <img src="interface/UI-5.png" width="60%" />
 </div>
