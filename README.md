@@ -4,5 +4,8 @@ The EduSentiment application allow users like the university administration to e
 
 ## User Interface
 
-![alt text](https://github.com/elainefuuu/sentiment-prediction/blob/[branch]/image.jpg?raw=true)
-
+![alt text](https://github.com/elainefuuu/sentiment-prediction/blob/interface/UI-1.jpg?raw=true)
+![alt text](https://github.com/elainefuuu/sentiment-prediction/blob/interface/UI-2.jpg?raw=true)
+![alt text](https://github.com/elainefuuu/sentiment-prediction/blob/interface/UI-3.jpg?raw=true)
+![alt text](https://github.com/elainefuuu/sentiment-prediction/blob/interface/UI-4.jpg?raw=true)
+![alt text](https://github.com/elainefuuu/sentiment-prediction/blob/interface/UI-5.jpg?raw=true)
