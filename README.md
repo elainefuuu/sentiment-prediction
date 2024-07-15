@@ -14,5 +14,6 @@ The EduSentiment application allow users like the university administration to e
 
 ## Source Code
 
+Source code can be obtained from the location: \
 src/Sentiment_prediction.ipynb \
 .streamlit/streamlit_app.py
