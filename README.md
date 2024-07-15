@@ -1,21 +1,8 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# EduSentiment App
 
-Description of the app ...
+The EduSentiment application allow users like the university administration to evaluate predicted sentiments of Course and Teaching Evaluation (CTES) student reviews. The application is built primarily with a trained machine learning prediction model. Several visualizations of sentiment distribution will be generated like a report to display the distribution of predicted positive and negative sentiments based on the selected subject. 
 
-## Demo App
+## User Interface
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml-model-builder-template.streamlit.app/)
+![alt text](https://github.com/elainefuuu/sentiment-prediction/blob/[branch]/image.jpg?raw=true)
 
-## Section Heading
-
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
